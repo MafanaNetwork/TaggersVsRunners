@@ -1,0 +1,10 @@
+name: TaggerVsRunners
+version: '${project.version}'
+main: me.TahaCheji.Main
+api-version: 1.17
+authors: [ TahaCheji ]
+description: TaggersVsRunners
+
+commands:
+  tr:
+  trAdmin:
